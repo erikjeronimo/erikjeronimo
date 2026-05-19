@@ -40,7 +40,7 @@ Acredito que a tecnologia vai além do código: envolve colaboração, comunica�
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](SEU_LINK_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/erik-lima-dev)
 
 [![Instagram](https://img.shields.io/badge/Instagram-Perfil-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](SEU_LINK_AQUI)
 
