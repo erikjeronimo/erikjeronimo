@@ -47,5 +47,4 @@ Acredito que a tecnologia vai além do código: envolve colaboração, comunica�
 [![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eriklima0710@gmail.con)
 
 ---
-
-⭐ *Sempre em busca de evolução, aprendizado contínuo e novos desafios na tecnologia.*
+⭐ *Sempre em busca de evolução, aprendizado contínuo e novos desafios na tecnologia, visando sempre em acrescentar.*
